@@ -11,6 +11,7 @@
   position: relative;
   display: flex;
   align-items: center;
+  overflow: hidden;
  }
 .logo {
   width: 183px;
@@ -49,8 +50,8 @@
   background-color: #2f80ed;
   top: 64px;
   right: 0;
-  margin-bottom: auto;
   position: absolute;
+  margin-bottom: auto;
   z-index: 3;
   }
 .header__main-illustration {
