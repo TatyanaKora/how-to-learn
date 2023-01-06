@@ -279,7 +279,7 @@
   top: 0;
   align-self: flex-start;
 }
-.footer_copy_author {
+.footer__author {
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
