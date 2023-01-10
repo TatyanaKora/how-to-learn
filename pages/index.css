@@ -12,7 +12,7 @@
 
 /* анимации для страницы */
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/link-opacity/link-opacity.css);
+@import url(../blocks/opacity/opacity.css);
 
 /* элеиент logo */
 @import url(../blocks/logo/logo.css);
@@ -21,7 +21,6 @@
 
 /* блок description */
 @import url(../blocks/description/description.css);
-@import url(../blocks/description/__two-columns/description__two-columns.css);
 
 /* элемент two-columns */
 @import url(../blocks/two-columns/two-columns.css);
@@ -69,8 +68,7 @@
  
 /* блок digits */
 @import url(../blocks/digits/digits.css);
-@import url(../blocks/digits/__title/digits__title.css);
-@import url(../blocks/digits/__subtitle/digits__subtitle.css);
+
 
 /* блок khan */
 @import url(../blocks/khan/khan.css);
@@ -90,7 +88,6 @@
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__text/table__text.css);
-@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
